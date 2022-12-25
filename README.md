@@ -1,6 +1,6 @@
 # Hi. I am Mansur
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif?cid=ecf05e47kx215lezk70zutrcx9dshcf6jnmd0yxfrbwzcpza&rid=giphy.gif&ct=s">
+  <img src="https://media4.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif?cid=ecf05e47kx215lezk70zutrcx9dshcf6jnmd0yxfrbwzcpza&rid=giphy.gif&ct=s" width="300">
 </div>
 
 
